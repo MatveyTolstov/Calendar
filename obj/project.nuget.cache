@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4wC3NbLXQ16YKcsgT0lHFm9xo7CLrBwTOiX3aqQtOs/k/R4Xlu7/Ys8OKKnUhdFjWDFGSh0Bu/N81keeW339Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Календарь\\Календарь.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
